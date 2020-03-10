@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CityInfo.Function": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
